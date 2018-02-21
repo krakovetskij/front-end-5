@@ -42,11 +42,3 @@ p:nth-child(2n) {
 p:nth-child(2n)::before {
     background: #ff5353;
 }
-
-p:hover {
-    background: #555555;
-}
-
-p:hover::before {
-    background: #551c1c;
-}
